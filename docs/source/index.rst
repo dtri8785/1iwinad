@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+iwin
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`IWIN <https://iwin.ad/>`_ đẳng cấp số 1 về game bài online mệnh danh sòng bài thương lưu online hiện nay trên thị trường. Tham gia iwin người chơi tận hưởng những thể loại trò chơi đổi thưởng, game bài online hấp dẫn đủ thể loại và cá cược khác nhau. Nhanh tay tải ngay app iwin nhận ưu đãi và tham gia cá cược tại cổng game. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 2830A Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0365590842. 
 
-Contents
---------
+Email: info@iwin.ad. 
 
-.. toctree::
+Website: https://iwin.ad/ 
 
-   usage
-   api
+#iwin #iwinad #conggameiwin
